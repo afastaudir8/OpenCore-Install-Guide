@@ -209,6 +209,8 @@ And an important note for **Laptops with discrete GPUs**:
 | [Pascal](https://en.wikipedia.org/wiki/Pascal_(microarchitecture)) | 10.12.4 | ^^ | ^^ |
 | [Turing](https://en.wikipedia.org/wiki/Turing_(microarchitecture)) | <span style="color:red"> N/A </span> | <span style="color:red"> N/A </span> | <span style="color:red"> No drivers available </span> |
 | [Ampere](https://en.wikipedia.org/wiki/Ampere_(microarchitecture)) | ^^ | ^^ | ^^ |
+| [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace_(microarchitecture)) | ^^ | ^^ | ^^ |
+| [Blackwell](https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)) | ^^ | ^^ | ^^ |
 
 :::
 
